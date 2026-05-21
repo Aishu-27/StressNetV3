@@ -8,6 +8,7 @@ StressNetV3 is a real-time fatigue detection system using webcam input. It detec
 - TensorFlow / Keras
 - OpenCV
 - EfficientNetB7
+- Kaggle Notebook
 
 ## Features
 - Real-time fatigue detection
